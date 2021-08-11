@@ -1,0 +1,1126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+<key id="name" for="node" attr.name="name" attr.type="string"/>
+<key id="label" for="node" attr.name="label" attr.type="string"/>
+<key id="author" for="node" attr.name="author" attr.type="string"/>
+<key id="year" for="node" attr.name="year" attr.type="string"/>
+<key id="title" for="node" attr.name="title" attr.type="string"/>
+<key id="so" for="node" attr.name="so" attr.type="string"/>
+<key id="vol" for="node" attr.name="vol" attr.type="string"/>
+<key id="page" for="node" attr.name="pg" attr.type="string"/>
+<key id="ut" for="node" attr.name="ut" attr.type="string"/>
+<key id="freq" for="node" attr.name="freq" attr.type="integer"/>
+<key id="centrality" for="node" attr.name="centrality" attr.type="double"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="float"/>
+<key id="slice" for="edge" attr.name="slice" attr.type="integer"/>
+<key id="year" for="edge" attr.name="year" attr.type="string"/>
+<graph edgedefault="undirected">
+<node id="0">
+  <data key="name">Zhou XY</data>
+  <data key="label">Zhou XY, 2018, ENERG ENVIRON SCI, V11, P1985</data>
+  <data key="author">Zhou XY</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">ENERG ENVIRON SCI</data>
+  <data key="vol">11</data>
+  <data key="page">1985</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="1">
+  <data key="name">Amjad M</data>
+  <data key="label">Amjad M, 2017, APPL ENERG, V206, P393, DOI 10.1016/j.apenergy.2017.08.144</data>
+  <data key="author">Amjad M</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">APPL ENERG</data>
+  <data key="vol">206</data>
+  <data key="page">393</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="2">
+  <data key="name">Zhu MW</data>
+  <data key="label">Zhu MW, 2018, ADV ENERGY MATER, V8, P0, DOI 10.1002/aenm.201701028</data>
+  <data key="author">Zhu MW</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">ADV ENERGY MATER</data>
+  <data key="vol">8</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="3">
+  <data key="name">Chen B</data>
+  <data key="label">Chen B, 2018, SCI TOTAL ENVIRON, V613, P931, DOI 10.1016/j.scitotenv.2017.09.138</data>
+  <data key="author">Chen B</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">SCI TOTAL ENVIRON</data>
+  <data key="vol">613</data>
+  <data key="page">931</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="4">
+  <data key="name">Zhu LL</data>
+  <data key="label">Zhu LL, 2018, ADV ENERGY MATER, V8, P0, DOI 10.1002/aenm.201702149</data>
+  <data key="author">Zhu LL</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">ADV ENERGY MATER</data>
+  <data key="vol">8</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="5">
+  <data key="name">Chen QM</data>
+  <data key="label">Chen QM, 2018, CHEM SCI, V9, P623, DOI 10.1039/c7sc02967e</data>
+  <data key="author">Chen QM</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">CHEM SCI</data>
+  <data key="vol">9</data>
+  <data key="page">623</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="6">
+  <data key="name">Bao T</data>
+  <data key="label">Bao T, 2016, BIOMATERIALS, V76, P11, DOI 10.1016/j.biomaterials.2015.10.048</data>
+  <data key="author">Bao T</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">BIOMATERIALS</data>
+  <data key="vol">76</data>
+  <data key="page">11</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="7">
+  <data key="name">Chen L</data>
+  <data key="label">Chen L, 2014, ENERG CONVERS MANAGE, V79, P317, DOI 10.1016/j.enconman.2013.12.026</data>
+  <data key="author">Chen L</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">ENERG CONVERS MANAGE</data>
+  <data key="vol">79</data>
+  <data key="page">317</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="8">
+  <data key="name">Fu Y</data>
+  <data key="label">Fu Y, 2017, APPL THERM ENG, V114, P961, DOI 10.1016/j.applthermaleng.2016.12.054</data>
+  <data key="author">Fu Y</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">APPL THERM ENG</data>
+  <data key="vol">114</data>
+  <data key="page">961</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="9">
+  <data key="name">Canivet J</data>
+  <data key="label">Canivet J, 2014, CHEM SOC REV, V43, P5594, DOI 10.1039/c4cs00078a</data>
+  <data key="author">Canivet J</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">CHEM SOC REV</data>
+  <data key="vol">43</data>
+  <data key="page">5594</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="10">
+  <data key="name">Cao YZ</data>
+  <data key="label">Cao YZ, 2014, J MATER CHEM A, V2, P20439, DOI 10.1039/c4ta05075d</data>
+  <data key="author">Cao YZ</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">J MATER CHEM A</data>
+  <data key="vol">2</data>
+  <data key="page">20439</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="11">
+  <data key="name">Zhou L</data>
+  <data key="label">Zhou L, 2016, SCI ADV, V2, P0, DOI 10.1126/sciadv.1501227</data>
+  <data key="author">Zhou L</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">SCI ADV</data>
+  <data key="vol">2</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="12">
+  <data key="name">Chen CJ</data>
+  <data key="label">Chen CJ, 2019, JOULE, V3, P683, DOI 10.1016/j.joule.2018.12.023</data>
+  <data key="author">Chen CJ</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">JOULE</data>
+  <data key="vol">3</data>
+  <data key="page">683</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="13">
+  <data key="name">Deng ZY</data>
+  <data key="label">Deng ZY, 2017, J MATER CHEM A, V5, P7691, DOI 10.1039/c7ta01361b</data>
+  <data key="author">Deng ZY</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">J MATER CHEM A</data>
+  <data key="vol">5</data>
+  <data key="page">7691</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="14">
+  <data key="name">Barry E</data>
+  <data key="label">Barry E, 2017, J MATER CHEM A, V5, P2929, DOI 10.1039/c6ta09014a</data>
+  <data key="author">Barry E</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">J MATER CHEM A</data>
+  <data key="vol">5</data>
+  <data key="page">2929</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="15">
+  <data key="name">Kashyap V</data>
+  <data key="label">Kashyap V, 2017, J MATER CHEM A, V5, P15227, DOI 10.1039/c7ta03977h</data>
+  <data key="author">Kashyap V</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">J MATER CHEM A</data>
+  <data key="vol">5</data>
+  <data key="page">15227</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="16">
+  <data key="name">Li XQ</data>
+  <data key="label">Li XQ, 2016, P NATL ACAD SCI USA, V113, P13953, DOI 10.1073/pnas.1613031113</data>
+  <data key="author">Li XQ</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">P NATL ACAD SCI USA</data>
+  <data key="vol">113</data>
+  <data key="page">13953</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="17">
+  <data key="name">Gao M</data>
+  <data key="label">Gao M, 2016, ENERG ENVIRON SCI, V9, P3151, DOI 10.1039/c6ee00971a</data>
+  <data key="author">Gao M</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">ENERG ENVIRON SCI</data>
+  <data key="vol">9</data>
+  <data key="page">3151</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="18">
+  <data key="name">Ghasemi H</data>
+  <data key="label">Ghasemi H, 2014, NAT COMMUN, V5, P0, DOI 10.1038/ncomms5449</data>
+  <data key="author">Ghasemi H</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">NAT COMMUN</data>
+  <data key="vol">5</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="19">
+  <data key="name">Boo C</data>
+  <data key="label">Boo C, 2017, NAT NANOTECHNOL, V12, P500, DOI 10.1038/nnano.2017.114</data>
+  <data key="author">Boo C</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">NAT NANOTECHNOL</data>
+  <data key="vol">12</data>
+  <data key="page">500</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="20">
+  <data key="name">Angayarkanni SA</data>
+  <data key="label">Angayarkanni SA, 2015, ADV COLLOID INTERFAC, V225, P146, DOI 10.1016/j.cis.2015.08.014</data>
+  <data key="author">Angayarkanni SA</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">ADV COLLOID INTERFAC</data>
+  <data key="vol">225</data>
+  <data key="page">146</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="21">
+  <data key="name">Chang YH</data>
+  <data key="label">Chang YH, 2018, J MATER CHEM A, V6, P10939, DOI 10.1039/c8ta02700e</data>
+  <data key="author">Chang YH</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">J MATER CHEM A</data>
+  <data key="vol">6</data>
+  <data key="page">10939</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="22">
+  <data key="name">Barry E</data>
+  <data key="label">Barry E, 2018, ENVIRON SCI-WAT RES, V4, P40</data>
+  <data key="author">Barry E</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">ENVIRON SCI-WAT RES</data>
+  <data key="vol">4</data>
+  <data key="page">40</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="23">
+  <data key="name">Wang YC</data>
+  <data key="label">Wang YC, 2018, J MATER CHEM A, V6, P963, DOI 10.1039/c7ta08972d</data>
+  <data key="author">Wang YC</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">J MATER CHEM A</data>
+  <data key="vol">6</data>
+  <data key="page">963</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="24">
+  <data key="name">Zhang LB</data>
+  <data key="label">Zhang LB, 2015, ADV MATER, V27, P4889, DOI 10.1002/adma.201502362</data>
+  <data key="author">Zhang LB</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">ADV MATER</data>
+  <data key="vol">27</data>
+  <data key="page">4889</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="25">
+  <data key="name">Ni G</data>
+  <data key="label">Ni G, 2015, NANO ENERGY, V17, P290, DOI 10.1016/j.nanoen.2015.08.021</data>
+  <data key="author">Ni G</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">NANO ENERGY</data>
+  <data key="vol">17</data>
+  <data key="page">290</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="26">
+  <data key="name">Ni G</data>
+  <data key="label">Ni G, 2018, ENERG ENVIRON SCI, V11, P1510</data>
+  <data key="author">Ni G</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">ENERG ENVIRON SCI</data>
+  <data key="vol">11</data>
+  <data key="page">1510</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="27">
+  <data key="name">Zhou L</data>
+  <data key="label">Zhou L, 2016, NAT PHOTONICS, V10, P393</data>
+  <data key="author">Zhou L</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">NAT PHOTONICS</data>
+  <data key="vol">10</data>
+  <data key="page">393</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="28">
+  <data key="name">Liu B</data>
+  <data key="label">Liu B, 2018, ADV ENERGY MATER, V8, P0, DOI 10.1002/aenm.201702340</data>
+  <data key="author">Liu B</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">ADV ENERGY MATER</data>
+  <data key="vol">8</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="29">
+  <data key="name">Bai H</data>
+  <data key="label">Bai H, 2016, J MATER CHEM A, V4, P1566, DOI 10.1039/c5ta08603e</data>
+  <data key="author">Bai H</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">J MATER CHEM A</data>
+  <data key="vol">4</data>
+  <data key="page">1566</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="30">
+  <data key="name">Chang J</data>
+  <data key="label">Chang J, 2018, J MATER CHEM A, V6, P9192, DOI 10.1039/c8ta00779a</data>
+  <data key="author">Chang J</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">J MATER CHEM A</data>
+  <data key="vol">6</data>
+  <data key="page">9192</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="31">
+  <data key="name">Chen CJ</data>
+  <data key="label">Chen CJ, 2017, ADV MATER, V29, P0, DOI 10.1002/adma.201701756</data>
+  <data key="author">Chen CJ</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">ADV MATER</data>
+  <data key="vol">29</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="32">
+  <data key="name">Neumann O</data>
+  <data key="label">Neumann O, 2017, ACS ENERGY LETT, V2, P8, DOI 10.1021/acsenergylett.6b00520</data>
+  <data key="author">Neumann O</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">ACS ENERGY LETT</data>
+  <data key="vol">2</data>
+  <data key="page">8</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="33">
+  <data key="name">Bae K</data>
+  <data key="label">Bae K, 2015, NAT COMMUN, V6, P0, DOI 10.1038/ncomms10103</data>
+  <data key="author">Bae K</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">NAT COMMUN</data>
+  <data key="vol">6</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="34">
+  <data key="name">Ye MM</data>
+  <data key="label">Ye MM, 2017, ADV ENERGY MATER, V7, P0, DOI 10.1002/aenm.201601811</data>
+  <data key="author">Ye MM</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">ADV ENERGY MATER</data>
+  <data key="vol">7</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="35">
+  <data key="name">Brongersma ML</data>
+  <data key="label">Brongersma ML, 2015, NAT NANOTECHNOL, V10, P25</data>
+  <data key="author">Brongersma ML</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">NAT NANOTECHNOL</data>
+  <data key="vol">10</data>
+  <data key="page">25</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="36">
+  <data key="name">Yang Y</data>
+  <data key="label">Yang Y, 2018, ACS NANO, V12, P829, DOI 10.1021/acsnano.7b08196</data>
+  <data key="author">Yang Y</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">ACS NANO</data>
+  <data key="vol">12</data>
+  <data key="page">829</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="37">
+  <data key="name">Zhu LL</data>
+  <data key="label">Zhu LL, 2018, MATER HORIZONS, V5, P323, DOI 10.1039/c7mh01064h</data>
+  <data key="author">Zhu LL</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">MATER HORIZONS</data>
+  <data key="vol">5</data>
+  <data key="page">323</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="38">
+  <data key="name">Hu XZ</data>
+  <data key="label">Hu XZ, 2017, ADV MATER, V29, P0, DOI 10.1002/adma.201604031</data>
+  <data key="author">Hu XZ</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">ADV MATER</data>
+  <data key="vol">29</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="39">
+  <data key="name">Chen CL</data>
+  <data key="label">Chen CL, 2018, NANO ENERGY, V51, P451, DOI 10.1016/j.nanoen.2018.06.077</data>
+  <data key="author">Chen CL</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">NANO ENERGY</data>
+  <data key="vol">51</data>
+  <data key="page">451</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="40">
+  <data key="name">Ming X</data>
+  <data key="label">Ming X, 2018, SOL ENERG MAT SOL C, V185, P333, DOI 10.1016/j.solmat.2018.05.049</data>
+  <data key="author">Ming X</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">SOL ENERG MAT SOL C</data>
+  <data key="vol">185</data>
+  <data key="page">333</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<edge source="0" target="2">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="0" target="4">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="0" target="13">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="0" target="15">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="0" target="16">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="0" target="26">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="0" target="33">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="0" target="37">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="0" target="38">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="2" target="4">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="2" target="13">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="2" target="15">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="2" target="16">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="2" target="26">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="2" target="33">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="2" target="37">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="2" target="38">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="3" target="9">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="3" target="10">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="3" target="14">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="3" target="19">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="3" target="22">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="3" target="35">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="4" target="13">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="4" target="15">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="4" target="16">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="4" target="26">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="4" target="33">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="4" target="37">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="4" target="38">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="5" target="11">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="5" target="18">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="5" target="23">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="5" target="24">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="5" target="28">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="5" target="34">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="6" target="29">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="7" target="20">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="8" target="25">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="8" target="32">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="9" target="10">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="9" target="12">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="9" target="14">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="9" target="19">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="9" target="21">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="9" target="22">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="9" target="30">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="9" target="31">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="9" target="35">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="9" target="39">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="10" target="14">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="10" target="19">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="10" target="21">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="10" target="22">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="10" target="30">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="10" target="31">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="10" target="35">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="11" target="18">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="11" target="23">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="11" target="24">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="11" target="28">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="11" target="34">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="12" target="14">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="12" target="19">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="12" target="22">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="12" target="35">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="13" target="15">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="13" target="16">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="13" target="26">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="13" target="33">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="13" target="37">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="13" target="38">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="14" target="19">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="14" target="21">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="14" target="22">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="14" target="30">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="14" target="31">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="14" target="35">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="14" target="39">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="15" target="16">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="15" target="26">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="15" target="33">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="15" target="37">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="15" target="38">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="16" target="26">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="16" target="33">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="16" target="37">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="16" target="38">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="17" target="36">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="17" target="40">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="18" target="23">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="18" target="24">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="18" target="28">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="18" target="34">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="19" target="21">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="19" target="22">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="19" target="30">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="19" target="31">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="19" target="35">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="19" target="39">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="21" target="22">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="21" target="35">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="22" target="30">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="22" target="31">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="22" target="35">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="22" target="39">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="23" target="24">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="23" target="28">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="23" target="34">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="24" target="28">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="24" target="34">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="25" target="32">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="26" target="33">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="26" target="37">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="26" target="38">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="28" target="34">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="30" target="35">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="31" target="35">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="33" target="37">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="33" target="38">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="35" target="39">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="36" target="40">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="37" target="38">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2019</data>
+</edge>
+</graph>
+</graphml>
