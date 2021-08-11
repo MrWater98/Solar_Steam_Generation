@@ -14,12 +14,11 @@ TI Progress in 3D-Graphene Assemblies Preparation for Solar-Thermal Steam
 SO ACTA PHYSICO-CHIMICA SINICA
 LA Chinese
 DT Article
-DE Graphene; Three-dimensional structure; Solar-thermal conversion; Water
-   evaporation;
+DE Evaporator; Metal oxide
 ID GRAPHENE-BASED NANOCOMPOSITES; POROUS GRAPHENE; ; AEROGELS;
    EFFICIENCY; EVAPORATION; SUPERELASTICITY; PERFORMANCE; CHALLENGES;
    CATALYSTS
-AB Currently, water shortage is a globally prevalent issue, with approximately 1.5 billion people in over 80 countries in the world are facing a shortage of fresh water. Among them, 300 million people in 26 countries face daily water shortages. It is estimated that by 2025, billions of people will suffer due water shortage. The desalination of seawater and other technologies have been widely investigated to solve this problem. Recently, a lot of study have been carried out on the production of clean water via solar evaporation with new materials and technologies. Under the condition of illumination, the light-absorbing material converts solar  directly into heat  to realize rapid and large amount of water evaporation, after condensation, clean water was obtained. It is important that this technology can effectively remove salt, bacteria, and other pollutants from raw water, and the quality of the obtained water fully meets the drinking water quality standard set by the World Health Organization. This is an efficient, green, and low-cost method for solving the shortage of water resources. Three-dimensional (3D) graphene materials have excellent physical and chemical properties, high photothermal conversion efficiency, high solar absorption rate, rich internal micro- and nano-channels, good water transmission channels, and large surface water evaporation area; in addition, they can achieve an ultra-high water evaporation rate under solar irradiation. These properties are highly significant in the research and practical applications of photothermal. In this study, the research progress of 3D-graphene is discussed with regard to the following three aspects. 1) The main preparation method of 3D-graphene was investigated. The advantages and disadvantages of different preparation methods, such as self-assembly, template, and chemical vapor deposition methods were summarized and compared. It can provide reference for readers to choose the preparation method of 3D-graphene; 2) The basic principle of photothermal water evaporation is introduced in detail. The research progress of photothermal water evaporation was summarized based on pure graphene, graphene/polymer composites, and graphene/metal oxide composites. The evaporation properties of different materials were compared. The development, fabrication, and performance of small photothermal conversion devices are briefly introduced; 3) The of graphene photothermal water evaporation was investigated, and its limitations were analyzed and summarized. Consequently, the challenges faced by photothermal evaporation in theoretical research and the problems to be solved in practical production applications are finally prospected. This review is a valuable reference for the development of 3D-graphene materials and solar-thermal steam generation and.
+AB Currently, water shortage is a globally prevalent issue, with approximately 1.5 billion people in over 80 countries in the world are facing a shortage of fresh water. Among them, 300 million people in 26 countries face daily water shortages. It is estimated that by 2025, billions of people will suffer due water shortage. The desalination of seawater and other technologies have been widely investigated to solve this problem. Recently, a lot of study have been carried out on the production of clean water via solar evaporation with new materials and technologies. Under the condition of illumination, the light-absorbing material converts solar  directly into heat  to realize rapid and large amount of water evaporation, after condensation, clean water was obtained. It is important that this technology can effectively remove salt, bacteria, and other pollutants from raw water, and the quality of the obtained water fully meets the drinking water quality standard set by the World Health Organization. This is an efficient, green, and low-cost method for solving the shortage of water resources. Three-dimensional (3D) graphene materials have excellent physical and chemical properties, high photothermal conversion efficiency, high solar absorption rate, rich internal micro- and nano-channels, good water transmission channels, and large surface water evaporation area; in addition, they can achieve an ultra-high water evaporation rate under solar irradiation. These properties are highly significant in the research and practical applications of photothermal. In this study, the research progress of 3D-graphene is discussed with regard to the following three aspects. 1) The main preparation method of 3D-graphene was investigated. The advantages and disadvantages of different preparation methods, such as self-assembly, template, and chemical vapor deposition methods were summarized and compared. It can provide reference for readers to choose the preparation method of 3D-graphene; 2) The basic principle of photothermal water evaporation is introduced in detail. The research progress of photothermal water evaporation was summarized based on pure graphene, graphene/polymer composites, and graphene/Metal oxide composites. The evaporation properties of different materials were compared. The development, fabrication, and performance of small photothermal conversion devices are briefly introduced; 3) The of graphene photothermal water evaporation was investigated, and its limitations were analyzed and summarized. Consequently, the challenges faced by photothermal evaporation in theoretical research and the problems to be solved in practical production applications are finally prospected. This review is a valuable reference for the development of 3D-graphene materials and solar-thermal steam generation and.
 C1 [Chen, Qing; Zhao, Jian] Chinese Res Inst Environm Sci, State Key Lab Environm Criteria & Risk Assessment, Beijing 100012, Peoples R China.
    [Chen, Qing; Cheng, Huhu; Qu, Liangti] Tsinghua Univ, Dept Chem, Key Lab Organ Optoelect & Mol Engn, Minist Educ, Beijing 100084, Peoples R China.
    [Chen, Qing; Cheng, Huhu; Qu, Liangti] Tsinghua Univ, Dept Mech Engn, State Key Lab Tribol, Beijing 100084, Peoples R China.
@@ -193,8 +192,7 @@ TI Nanofibrous hydrogel-reduced graphene oxide membranes for effective
 SO CHEMICAL ENGINEERING JOURNAL
 LA English
 DT Article
-DE Interfacial evaporation; Desalination; Solar ; Nanofibrous
-   hydrogel; Graphene oxide
+DE Interfacial;
 ID WATER DESALINATION; STEAM-GENERATION; VISIBLE-LIGHT; EFFICIENT; BEADS;
    ADSORPTION; SEPARATION; STRATEGY; POLYMER; FUTURE
 AB Interfacial evaporation from light-absorbing, porous materials have offered an exciting opportunity to utilize sustainable renewable solar  for desalination. However, the efforts to understand the fundamental mechanisms governing the interfacial evaporation have greatly lagged behind performance studies. Herein, a hybrid nanofibrous hydrogel-reduced graphene oxide (NHrG) membrane is demonstrated in this work. We experimentally characterized the state of water in the NHrG membrane and proved the presence of intermediate water in the porous membrane. By monitoring the vaporization enthalpy as a function of membrane saturation, we demonstrated that the vaporization of intermediate water dominates the interfacial evaporation process, thus playing a key role in lowering the vaporization enthalpy. The lowered enthalpy value together with other factors, such as the high light absorption efficiency enabled by reduced graphene oxide (rGO) and the porous hydrophilic network induced by electrospun hydrogel nanofibers, led to a highly efficient solar-driven interfacial evaporator. The NHrG membrane had an evaporation rate of up to 1.85 kg m-2h-1 with a high  conversion efficiency of 95.4% under one sun irradiation. In addition, the evaporator exhibited excellent desalination performance in treating fresh seawater and achieved high removal of salt as well as heavy metal ions. Our study provides important knowledge for performance optimization and process design.
@@ -338,7 +336,7 @@ TI Enhancing solar desalination performance based on restricted salt ions
 SO JOURNAL OF ENVIRONMENTAL CHEMICAL ENGINEERING
 LA English
 DT Article
-DE Solar evaporation; PEDOT; Salt crystallization; Cation exchange resin
+DE evaporator;
 ID WATER EVAPORATION; STEAM-GENERATION; HIGHLY EFFICIENT; GRAPHENE; OXIDE;
    LAYER; MEMBRANE; CARBON
 AB Solar evaporation is a promising desalination technology, and enhancing desalination performance is the key to promoting the application of solar evaporation. In this study, a new type of solar evaporator was prepared using the polyetherimide (PEI) modified cation exchange resin (CER) and poly(3,4-ethylenedioxythiophene) (PEDOT)based conductive ink (EL-P 3040). The prepared evaporator showed excellent light-to-heat conversion capability and significantly improved the evaporation performance with the evaporation rate of 1.42 kg m(-2) h(-1). In addition, the removal rates of salt and heavy metal ions were all higher than 99.9%. Salt crystallization during evaporation was suppressed based on the restriction of the cation exchange resin on the free ions transport. The goal of this research is to provide a meaningful reference for promoting the practical application of solar desalination.
@@ -442,8 +440,7 @@ TI The role of micro-nano pores in interfacial solar evaporation systems -
 SO APPLIED 
 LA English
 DT Review
-DE Interfacial solar evaporation; Photothermal; Solar ; Heat 
-   management; Pure water production; Porous structure; Micro-nano scale
+DE Interfacial; Photothermal
 ID EFFICIENCY STEAM-GENERATION; HIGHLY EFFICIENT; GRAPHENE OXIDE; VAPOR
    GENERATION; HEAT-TRANSFER; WOOD; CONVERSION; MEMBRANES; TRANSPIRATION;
    STABILITY
@@ -643,8 +640,7 @@ TI Polypyrrole-Reinforced N,S-Doping Graphene Foam for Efficient Solar
 SO SOLAR RRL
 LA English
 DT Article
-DE heavy metal ions; polypyrrole; solar evaporation; stabilities;
-   wastewater
+DE solar evaporator
 ID REMOVAL; NANOCOMPOSITES; ADSORPTION; CR(VI)
 AB Solar vapor generation is a sustainable and cost-effective approach to addressing the issue of water shortage. However, the challenges of  still exist for achieving a high evaporation efficiency combined with long-term stability in the wastewater containing heavy metal ions and wide degrees of acidity and alkalinity (pH = 1-14). Herein, polypyrrole (PPy) loading on the N,S-doped graphene oxide (N,S-GO) foam is used for high-efficiency solar evaporation of treating wastewater. With the advantages of excellent broadband solar absorption (>97%), extremely low emissivity (0.70), and outstanding hydrophilicity, the N,S-GO/PPy foam achieves a high evaporation efficiency of 90.5% under 1 sun illumination. More notably, the N,S-GO/PPy foam has strong adsorption of heavy metal ions (Fe3+, Cu2+, and Cr6+) for treating wastewater synchronously evaporates at higher efficiencies of 94.7-98.4%. Interestingly, the high-toxicity Cr6+ can be reduced to low-toxicity Cr3+ effectively by the synergistic effect of N,S-GO and PPy. In addition, the N,S-GO foam shows a better long-term resistance of acidity and alkalinity for 45 days. A new insight is offered into high-efficiency solar evaporation for treating wastewater and water purification.
 C1 [Su, Lifen; Ning, Yuying; Ma, Ziqiang; Zhang, Yuhao; Liu, Chuanlei; Zhang, Youli; Wu, Bin; Qian, Jiasheng] Anhui Univ, Sch Chem & Chem Engn, Anhui Prov Key Lab Environm Friendly Polymer Mat, Hefei 230601, Peoples R China.
@@ -728,8 +724,7 @@ TI Thermal reduction of iron-manganese oxide particles in a
 SO CHEMICAL ENGINEERING JOURNAL
 LA English
 DT Article
-DE Solar; Thermochemical; ; Packed bed; Reactor; Heat transfer;
-   Radiation; Model; CFD
+DE Photothermal Conversion
 ID RADIATIVE HEAT-TRANSFER; FLUIDIZED-BED; -STORAGE;
    STEAM-GASIFICATION; CHEMICAL REACTOR; REDOX MATERIALS; METAL-OXIDES; CO2
    CAPTURE; CFD-DEM; MODEL
@@ -876,7 +871,7 @@ LA English
 DT Article
 ID WATER EVAPORATION; PHOTOTHERMAL MATERIALS; STEAM-GENERATION; THIN-FILMS;
    ONE SUN; NANOPARTICLES; MEMBRANE; FACILE; DRIVEN
-AB Water desalination via solar-driven interfacial evaporation is one of the most essential technologies to limit the problem of global freshwater scarcity. Searching for a highly efficient, stable, eco-friendly, and cost-effective solar-absorber material that can collect the full solar spectrum is critically important for . This study reports the development of a new solar thermal evaporation system based on plasmonic copper oxide/reduced graphene oxide (rGO). The silver nanoparticles in the composite exhibit a very strong solar absorption. Also, rGO and CuO nanoparticles offer excellent thermal absorptivity. Polyurethane was used as the support and as a thermal insulator. Moreover, filter paper was used for fast water delivery to the surface of the solar absorber. Ag/CuO-rGO nanocomposite is manifested to be one of the most efficient solar-absorbers reported to date for solar desalination which exhibits an average 2.6 kg m(-2) h(-1) evaporation rate with solar thermal efficiency up to 92.5% under 1 sun irradiation. Furthermore, the composite has excellent stability and durability as it displays stable evaporation rates for more than 10 repeated cycles in use, with no significant decrease in the activity. Besides, the successful removal of various organic dyes from contaminated water is also revealed, resulting in the production of clean condensed freshwater. Finally, this work commences a new avenue of synthesizing cost-effective thermal absorbers based on metal oxides.
+AB Water desalination via solar-driven interfacial evaporation is one of the most essential technologies to limit the problem of global freshwater scarcity. Searching for a highly efficient, stable, eco-friendly, and cost-effective solar-absorber material that can collect the full solar spectrum is critically important for . This study reports the development of a new solar thermal evaporation system based on plasmonic copper oxide/reduced graphene oxide (rGO). The silver nanoparticles in the composite exhibit a very strong solar absorption. Also, rGO and CuO nanoparticles offer excellent thermal absorptivity. Polyurethane was used as the support and as a thermal insulator. Moreover, filter paper was used for fast water delivery to the surface of the solar absorber. Ag/CuO-rGO nanocomposite is manifested to be one of the most efficient solar-absorbers reported to date for solar desalination which exhibits an average 2.6 kg m(-2) h(-1) evaporation rate with solar thermal efficiency up to 92.5% under 1 sun irradiation. Furthermore, the composite has excellent stability and durability as it displays stable evaporation rates for more than 10 repeated cycles in use, with no significant decrease in the activity. Besides, the successful removal of various organic dyes from contaminated water is also revealed, resulting in the production of clean condensed freshwater. Finally, this work commences a new avenue of synthesizing cost-effective thermal absorbers based on Metal oxides.
 C1 [Kospa, Doaa A.; Ahmed, Awad I.; Samra, Salem E.; Ibrahim, Amr Awad] Mansoura Univ, Fac Sci, Dept Chem, Mansoura 35516, Egypt.
 RP Ibrahim, AA (corresponding author), Mansoura Univ, Fac Sci, Dept Chem, Mansoura 35516, Egypt.
 EM amr_awad@mans.edu.eg
@@ -979,13 +974,12 @@ TI A review on the application of hybrid nanofluids for parabolic trough
 SO JOURNAL OF CLEANER PRODUCTION
 LA English
 DT Review
-DE Hybrid PTC; Hybrid nanofluids; CFD; CNTs; HTF; Solar collector; Thermal
-   performance
+DE Metal oxide
 ID HEAT-TRANSFER ENHANCEMENT; SELECTIVE ABSORBING COATINGS; THERMAL
    PERFORMANCE ANALYSIS; DIRECT STEAM-GENERATION; SOLAR COLLECTOR; DYNAMIC
    VISCOSITY; RECEIVER TUBE; RHEOLOGICAL BEHAVIOR; OPTICAL-PROPERTIES;
    ETHYLENE-GLYCOL
-AB By far, the Parabolic trough collector (PTC) is the most established solar concentrating technology worldwide. This paper draws a comparison among various studies done earlier in the domain to bring forth different models and mediums used to evaluate the effect of nanofluids on thermal parameters for PTC providing an optimum output, resultantly. The study also reveals that by using nanofluid and hybrid nanofluids as heat transfer fluid (HTF) inside the absorber tube of solar collector, the thermal and optical characteristics can be enhanced. Reported papers in literature mention stability, effect on PTC's performance by implementing various novel designs, collector efficiency enhancement by using various inserts, and selecting proper hybrid nanomaterial into the base fluid. Varied experimental studies report that using hybrid nanofluid results in a more significant enhancement in thermal properties viz-a-viz than the mono fluids. A close look at the results of some of the notable works of the domain explicitly implies that for enhancing the thermal conductivity of nanofluid, metal oxide hybrid nanofluids are more promising than the oxide ones in a rather 'pecking order'. The study also verges on the proposition that the thermal properties of nanofluid can be accelerated by the usage of hybrid nanofluid instead of mono nanofluid, as a medium, into a more efficient hybrid structure. Conclusively, this review advances the understanding of optimizing alteration parameters for obtaining maximum increase in outcomes and offers substantially adequate understanding for choosing specific techniques to enhance the overall efficiency of PTC, which can be used as a guideline for future trends.
+AB By far, the Parabolic trough collector (PTC) is the most established solar concentrating technology worldwide. This paper draws a comparison among various studies done earlier in the domain to bring forth different models and mediums used to evaluate the effect of nanofluids on thermal parameters for PTC providing an optimum output, resultantly. The study also reveals that by using nanofluid and hybrid nanofluids as heat transfer fluid (HTF) inside the absorber tube of solar collector, the thermal and optical characteristics can be enhanced. Reported papers in literature mention stability, effect on PTC's performance by implementing various novel designs, collector efficiency enhancement by using various inserts, and selecting proper hybrid nanomaterial into the base fluid. Varied experimental studies report that using hybrid nanofluid results in a more significant enhancement in thermal properties viz-a-viz than the mono fluids. A close look at the results of some of the notable works of the domain explicitly implies that for enhancing the thermal conductivity of nanofluid, Metal oxide hybrid nanofluids are more promising than the oxide ones in a rather 'pecking order'. The study also verges on the proposition that the thermal properties of nanofluid can be accelerated by the usage of hybrid nanofluid instead of mono nanofluid, as a medium, into a more efficient hybrid structure. Conclusively, this review advances the understanding of optimizing alteration parameters for obtaining maximum increase in outcomes and offers substantially adequate understanding for choosing specific techniques to enhance the overall efficiency of PTC, which can be used as a guideline for future trends.
    (c) 2021 Elsevier Ltd. All rights reserved.
 C1 [Tiwari, Arun Kumar; Kumar, Vijay; Paliwal, H. K.] Dr APJ Abdul Kalam Tech Univ Uttar Pradesh, Inst Engn & Technol, Mech Engn Dept, Lucknow 226021, Uttar Pradesh, India.
    [Said, Zafar] Univ Sharjah, Sustainable & Renewable  Engn Dept, POB 27272, Sharjah, U Arab Emirates.
@@ -1304,8 +1298,7 @@ TI Solar-thermal conversion and steam generation: a review
 SO APPLIED THERMAL ENGINEERING
 LA English
 DT Review
-DE ; Solar-thermal conversion; Solar-absorbed
-   materials; Evaluation principle
+DE Photothermal conversion; Solar-absorbed materials; Evaluation principle
 ID WATER-EVAPORATION; VAPOR GENERATION; GRAPHENE OXIDE; PHOTOTHERMAL
    CONVERSION; EFFICIENT; HEAT; SYSTEM; DESALINATION; ; NANOPARTICLES
 AB Recently, steam generation systems based on solar-thermal conversion have received much interest, and this may be due to the widespread use of solar  and water sources such as oceans and lakes. The photo-thermal desalination system becomes attractive as it can convert absorbed solar light  into thermal  and realise the desalination and water purification of saline water through the evaporation process. In this paper, the research status of solar-thermal conversion materials such as metal-based materials, semiconductor materials, carbon-base materials, organic polymer materials, composite photo-thermal materials and their solar-thermal conversion mechanism in recent years are reviewed. The physical process and evaluation principle of solarthermal conversion are both carefully introduced. The methods of optimising thermal management and increasing the evaporation rate of a hybrid system are also introduced in detail. Four main applications of solarthermal conversion technologies (seawater desalination, wastewater purification, sterilisation and power generation) are discussed. Finally, based on the above analysis, the prospects and challenges for future research in the field of desalination are discussed from an engineering and scientific viewpoint to promote the direction of research, in order to stimulate future development and accelerate commercial application.
@@ -1466,7 +1459,7 @@ TI Sponge-templating synthesis of sandwich-like reduced graphene oxide
 SO SCIENCE CHINA-MATERIALS
 LA English
 DT Article
-DE sponge template; confinement effect; surface melting; desalination
+DE 
 ID SHAPE TRANSFORMATION; STEAM-GENERATION; ONE SUN; EFFICIENT; SIZE;
    PERFORMANCE; CHEMISTRY; EVOLUTION; MEMBRANES
 AB Solar evaporation based on plasmonic metal nanoparticles (MNPs) is emerging as a promising technology. However, the fine structure of MNPs is unstable, and both the high temperature generated by intensive light and corrosive ions in water could damage them. The performance will decline after recycling and long-time usage. To address these issues, we adopted a sponge-templating method for preparing sandwich-like nanoplates with the gold nanoparticles (Au NPs) confined in reduced graphene oxide (rGO) nanosheets. Due to the confinement effect, both the surface melting and ion diffusion were suppressed. The solar evaporator based on the sandwich-like nanoplates showed a high solar-vapor conversion efficiency of 85.2% under a high light intensity of 10 kW. After 30 times recycle of seawater desalination, the conversion efficiency scarcely decreased. These sandwich-like nanoplates with enhanced thermal and chemical stability of Au NPs are promising in the practical application of seawater desalination.
@@ -1582,7 +1575,7 @@ TI Modular Deformable Steam Electricity Cogeneration System with
 SO ADVANCED FUNCTIONAL MATERIALS
 LA English
 DT Article
-DE integration; modular; photothermal; steam generation; thermogalvanic
+DE photothermal Conversion
 ID HIGHLY EFFICIENT; SOLAR; OPPORTUNITIES; EVAPORATION; GENERATION;
    MEMBRANE; SILICON; SPRAY
 AB Capturing solar  for thermal conversion in a highly efficient manner for steam-electricity cogeneration is particularly opportune in the context of optimal solar  utilization for concurrent water- harvesting. Herein, an integrative photothermal evaporator/thermogalvanic cell with the desired optical, heat, water, and electrochemical management for synergistic steam-electricity production is reported. Versatile layer by-layer assembly is employed to integrate a hydrogel/metal-oxide/polymer into a multilayer film with individually addressable thickness, composition, and structure. As such, the ultimate integrative multilayer film cell demonstrates a unified high surface area and conductive electrodes, broadband absorption, rapid water suction-ion exchange, and thermal insulation properties. Thus, the designed cell immensely suppresses heat losses, achieving a high solar thermal conversion efficiency of 91.4% and maximum power outputs of approximate to 1.6 mW m(-2). Additionally, the self-floating, deformable, modular integral device presents appealing attributes such as salt-rejection for viable seawater desalination, high mechanical stability, and resilience to demanding operating conditions, and configurable on-demand/point-of-use tandem structure to maximize clean water and power generation value per area. This integrated strategy may provide prospective opportunities to reduce dependence on fossil fuels and freshwater inputs and solutions for renewable and decentralized clean water and electricity.
@@ -1693,10 +1686,10 @@ TI Eco-friendly coffee-based colloid for performance augmentation of solar
 SO PROCESS SAFETY AND ENVIRONMENTAL PROTECTION
 LA English
 DT Article
-DE Eco-friendly desalination; Nanofluids; Solar still; Solar 
+DE Metal oxide
 ID PHASE-CHANGE MATERIALS; STEAM-GENERATION; EXERGY ANALYSIS; ABSORBER
    PLATE; NANOFLUIDS; ; COLLECTOR; HEAT; APPLICABILITY; NANOMATERIALS
-AB Recently, nanofluids have been extensively used in water desalination systems because of their superior photo-thermal properties and heat transfer characteristics. Most of inorganic nanoparticles such as metal, metal oxides and carbon have adverse environmental impacts due to the risk related to their production and disposal processes as well as the toxicity of some types of them. In addition, their high production cost is another issue that motivates researchers to find low cost and eco-friendly alternatives to inorganic nanoparticles. In this study, coffee-based colloid has been proposed as an organic, low cost, and ecofriendly alternative to conventional inorganic-based nanofluids to augment the fresh water productivity of solar stills (SS). The performance of the modified solar still (MSS) has been experimentally investigated and compared with another conventional solar still (CSS) under the same conditions. The daily freshwater productivity obtained from the MSS was 4865.73 ml/m 2 which was greater than that of CSS by 35.14 %.  and exergy efficiencies of MSS were improved by 35.34 % and 46.44 %, respectively, compared with that of CSS. Finally, the economic evaluation of the MSS is carried out via performing cost analysis. The cost of distilled water per liter produced by the modified solar still is 0.0136 $/l. (C) 2020 Institution of Chemical Engineers. Published by Elsevier B.V. All rights reserved.
+AB Recently, nanofluids have been extensively used in water desalination systems because of their superior photo-thermal properties and heat transfer characteristics. Most of inorganic nanoparticles such as metal, Metal oxides and carbon have adverse environmental impacts due to the risk related to their production and disposal processes as well as the toxicity of some types of them. In addition, their high production cost is another issue that motivates researchers to find low cost and eco-friendly alternatives to inorganic nanoparticles. In this study, coffee-based colloid has been proposed as an organic, low cost, and ecofriendly alternative to conventional inorganic-based nanofluids to augment the fresh water productivity of solar stills (SS). The performance of the modified solar still (MSS) has been experimentally investigated and compared with another conventional solar still (CSS) under the same conditions. The daily freshwater productivity obtained from the MSS was 4865.73 ml/m 2 which was greater than that of CSS by 35.14 %.  and exergy efficiencies of MSS were improved by 35.34 % and 46.44 %, respectively, compared with that of CSS. Finally, the economic evaluation of the MSS is carried out via performing cost analysis. The cost of distilled water per liter produced by the modified solar still is 0.0136 $/l. (C) 2020 Institution of Chemical Engineers. Published by Elsevier B.V. All rights reserved.
 C1 [Essa, F. A.; Algazzar, Almoataz A.] Kafrelsheikh Univ, Fac Engn, Mech Engn Dept, Kafrelsheikh, Egypt.
    [Elsheikh, Ammar H.] Tanta Univ, Fac Engn, Prod Engn & Mech Design Dept, Tanta, Egypt.
    [Sathyamurthy, Ravishankar] Hindustan Inst Technol & Sci, Dept Automobile Engn, Chennai, Tamil Nadu, India.
@@ -1810,7 +1803,7 @@ TI Accelerated  for efficient ions removal
 SO JOURNAL OF COLLOID AND INTERFACE SCIENCE
 LA English
 DT Article
-DE Solar evaporation; Heavy metal ion; Ionic hydrogel; Self-driven
+DE evaporator
 ID HIGHLY EFFICIENT; WATER EVAPORATION; DESALINATION; MEMBRANES; ;
    STRATEGY; AEROGEL
 AB Solar-driven evaporation as a sustainable water purification technology exhibits great potential in solving the global water crisis. In this paper, a novel solar evaporator was successfully prepared with the reduced graphene oxide (rGO) and silver (Ag) nanowires as photothermal conversion media which were loaded into the sodium alginate (SA) hydrogel. It was found that the evaporation rate of the prepared evaporator reached 2.02 kg m(-2) h(-1) and the solar  efficiency was 91% under one sun irradiation intensity. Furthermore, this novel solar evaporator exhibited expectant evaporation performance in the treatment of seawater and heavy metal sewage with excellent ion removal ability, with the removal efficiency of various ions higher than 99.9%. The ion-crosslinked SA hydrogel contained in the evaporator ensured the rejection of multivalent ions based on the distribution of carboxylate anions, and the three-dimensional porous channel of the super-hydrophilic hydrogel provided the convenient path for the transport of water molecules and the escape of water vapor. The binary composition of rGO and silver nanowires enhanced the photothermal conversion and the thermal conductivity, which was beneficial to the stable supply of thermal  for evaporation. The purpose of this paper is to provide reference for promoting the practical application of solar evaporation. (C) 2019 Elsevier Inc. All rights reserved.
@@ -1904,11 +1897,10 @@ TI Experimental investigation of steam reforming of methanol over
 SO APPLIED 
 LA English
 DT Article
-DE Steam reforming of methanol; Nanocatalyst; Perovskite-like; Compound
-   metal oxides; Hybrid power generation system
+DE Metal oxide
 ID FUEL-CELL; HOMOGENEOUS PRECIPITATION; CATALYTIC-ACTIVITIES; CO2;
    REACTIVITY; ; LA2CUO4; PHOTOVOLTAICS; PEROVSKITES; CONVERSION
-AB Nanocatalysts of compound metal oxides (La2CuO4)(x)(CNZ-1)(1-x) (x=0.3, 0.5, 0.7) were prepared. Steam reforming of methanol (SRM) over these nanocatalysts was experimentally studied at a H2O/methanol molar ratio of 1.6. The results showed that the methanol solution catalyzed by all catalysts synthesized in this work could be completely converted into H-2, CO2 and a small amount of CO below a reaction temperature of 270 degrees C with a liquid hourly space velocity (LHSV) of 1.2 ml/(g.h). The catalysts of La2CuO4 and CuO/ZnO/Al2O3 were tested under the same operating conditions. Compared with La2CuO4, LCOx-CNZ showed better performance with a higher methanol conversion rate and H2 yield. Conversely LCO5-CNZ had better CO and H-2 selectivity compared with CuO/ZnO/Al2O3. LCO3-CNZ showed good competitiveness in all four above aspects when operated at 150-270 degrees C. It could be concluded that LCOx-CNZ with special structures provided a significant improvement in catalytic performance of SRM benefiting from the synergistic effect among La2CuO4 and CuZnAl oxides. Thermodynamics analysis and experiments using a hybrid power generation system were applied with the above catalysts. Under direct normal irradiation at 915 W/m(2) and a reaction temperature of 230 degrees C, LCO3-CNZ showed 9.7% higher H-2 yield and 3.9% higher net solar power generation efficiency than did Cu/Zn/Al oxides.
+AB Nanocatalysts of compound Metal oxides (La2CuO4)(x)(CNZ-1)(1-x) (x=0.3, 0.5, 0.7) were prepared. Steam reforming of methanol (SRM) over these nanocatalysts was experimentally studied at a H2O/methanol molar ratio of 1.6. The results showed that the methanol solution catalyzed by all catalysts synthesized in this work could be completely converted into H-2, CO2 and a small amount of CO below a reaction temperature of 270 degrees C with a liquid hourly space velocity (LHSV) of 1.2 ml/(g.h). The catalysts of La2CuO4 and CuO/ZnO/Al2O3 were tested under the same operating conditions. Compared with La2CuO4, LCOx-CNZ showed better performance with a higher methanol conversion rate and H2 yield. Conversely LCO5-CNZ had better CO and H-2 selectivity compared with CuO/ZnO/Al2O3. LCO3-CNZ showed good competitiveness in all four above aspects when operated at 150-270 degrees C. It could be concluded that LCOx-CNZ with special structures provided a significant improvement in catalytic performance of SRM benefiting from the synergistic effect among La2CuO4 and CuZnAl oxides. Thermodynamics analysis and experiments using a hybrid power generation system were applied with the above catalysts. Under direct normal irradiation at 915 W/m(2) and a reaction temperature of 230 degrees C, LCO3-CNZ showed 9.7% higher H-2 yield and 3.9% higher net solar power generation efficiency than did Cu/Zn/Al oxides.
 C1 [Zhang, Yidian; Guo, Shaopeng; Tian, Zhenyu; Hao, Yong] Chinese Acad Sci, Inst Engn Thermophys, Beijing 100190, Peoples R China.
    [Zhang, Yidian; Tian, Zhenyu; Hao, Yong] Univ Chinese Acad Sci, Beijing 100049, Peoples R China.
    [Guo, Shaopeng] Inner Mongolia Univ Sci & Technol, Sch  & Environm, Baotou 014010, Peoples R China.
@@ -2006,8 +1998,7 @@ TI Harnessing Solar-Driven Photothermal Effect toward the Water-
 SO ADVANCED SCIENCE
 LA English
 DT Review
-DE interfacial evaporation; low- desalination; photothermal effect;
-   solar ; water harvesting; water- nexus
+DE interfacial; photothermal conversion
 ID REDUCED GRAPHENE OXIDE; ENHANCED PHOTOCATALYTIC ACTIVITY; METAL-ORGANIC
    FRAMEWORKS; HIGHLY EFFICIENT; MEMBRANE DISTILLATION; POLYDOPAMINE
    COATINGS; VAPOR GENERATION; STEAM-GENERATION; FAST CLEANUP;
@@ -2288,11 +2279,10 @@ TI Thermodynamic analysis of a solar thermochemical cycle-based direct coal
 SO 
 LA English
 DT Article
-DE Solar thermochemical cycling;  production; Direct coal
-   liquefaction system; Thermodynamic efficiency; Emission reduction
+DE Metal oxide
 ID FUEL PRODUCTION; ZHUNDONG COAL; WATER; EFFICIENCY; SOLVENT; PROJECT;
    OXYGEN; CHINA; CCS; CO2
-AB Two-step thermochemical cycling based on metal oxide is a promising means of harvesting solar , in which  could be obtained through water splitting via the reduction and oxidation reactions driven by concentrated solar heat. A new kind of solar thermochemical cycle-based direct coal liquefaction system for oil production is proposed and analyzed in this paper. The coal gasification part of the traditional coal liquefaction system for  generation is replaced by thermochemical cycling process. In addition, fuel coal consumption in the coal-fired boiler for the steam generation of the traditional direct coal liquefaction system could be reduced through the heat recovery of gas mixture or oxygen carrier of the thermochemical cycle. To reveal the characteristics of the new system, the reduction of pollutant emissions,  efficiency and relative coal saving ratio are used as the key parameters. A large amount of SO2, NOx and CO2 in this coupling system could be reduced as the coal-fired boiler part for steam generation is replaced by the heat recovery from solar thermochemical cycling. The new proposed system is optimized with the reduction temperature and different gas or solid heat recovery rate allocation of the thermochemical cycles, in order to improve the  efficiency and simplify the system device. Solar-to- efficiency of the two-step thermochemical cycle part could be improved by proper heat recovery and extra pure oxygen will be obtained by the reduction reaction of the thermochemical cycling part. The theoretical  efficiency of similar to 47% and the relative coal saving ratio of similar to 42.6% for the proposed system (the reduction and oxidation temperatures are 1500 degrees C and 821 degrees C with 70% solid heat recovery rate from oxygen carrier for water splitting) may indicate a meaningful route for oil production by direct coal liquefaction. (C) 2019 Elsevier Ltd. All rights reserved.
+AB Two-step thermochemical cycling based on Metal oxide is a promising means of harvesting solar , in which  could be obtained through water splitting via the reduction and oxidation reactions driven by concentrated solar heat. A new kind of solar thermochemical cycle-based direct coal liquefaction system for oil production is proposed and analyzed in this paper. The coal gasification part of the traditional coal liquefaction system for  generation is replaced by thermochemical cycling process. In addition, fuel coal consumption in the coal-fired boiler for the steam generation of the traditional direct coal liquefaction system could be reduced through the heat recovery of gas mixture or oxygen carrier of the thermochemical cycle. To reveal the characteristics of the new system, the reduction of pollutant emissions,  efficiency and relative coal saving ratio are used as the key parameters. A large amount of SO2, NOx and CO2 in this coupling system could be reduced as the coal-fired boiler part for steam generation is replaced by the heat recovery from solar thermochemical cycling. The new proposed system is optimized with the reduction temperature and different gas or solid heat recovery rate allocation of the thermochemical cycles, in order to improve the  efficiency and simplify the system device. Solar-to- efficiency of the two-step thermochemical cycle part could be improved by proper heat recovery and extra pure oxygen will be obtained by the reduction reaction of the thermochemical cycling part. The theoretical  efficiency of similar to 47% and the relative coal saving ratio of similar to 42.6% for the proposed system (the reduction and oxidation temperatures are 1500 degrees C and 821 degrees C with 70% solid heat recovery rate from oxygen carrier for water splitting) may indicate a meaningful route for oil production by direct coal liquefaction. (C) 2019 Elsevier Ltd. All rights reserved.
 C1 [Kong, Hui; Zhang, Jun] China  Technol & Econ Res Inst, Res Garden Shenhua Innovat Base, Res Bldg 1,Future Sci Pk, Beijing 102211, Peoples R China.
    [Kong, Hui; Zhang, Jun] Tsinghua Univ, Tsinghua BP Clean  Ctr, Dept Thermal Engn, State Key Lab Power Syst, Beijing 100084, Peoples R China.
    [Kong, Xianghui] Ocean Univ China, Coll Fisheries, Qingdao 266003, Shandong, Peoples R China.
@@ -2383,8 +2373,7 @@ TI Solar  production via perovskite-based chemical-looping steam
 SO  CONVERSION AND MANAGEMENT
 LA English
 DT Article
-DE Solar heat; Chemical-looping steam methane reforming; 
-   production; Perovskite
+DE 
 ID OXYGEN-CARRIER;  GENERATION; PARTIAL OXIDATION; LATTICE OXYGEN;
    IRON-OXIDE; COMBUSTION; WATER; NI; REACTIVITY; CYCLE
 AB Solar thermochemical cycle is considered a promising strategy for  production. The reaction process and oxygen carrier (OC) are the key issues for solar  production. In this study, a solar-driven chemical looping steam methane reforming (S-CL-SMR) process by using perovskite as the oxygen carrier is proposed. In this process, the heat required by the endothermic reduction is supplied by solar heat, and the heat is converted into the chemical  of solar fuels. Perovskites La1-yCayNi0.9Cu0.1O3 were synthesized and characterized. Meanwhile, the reactivity was studied via thermogravimetry-analysis at 400 degrees C for reduction, and 900 degrees C for re oxidation. The results show that the reactivity of the La1-yCayNi0.9Cu0.1O3 is improved as the calcium substitution increases. In the reduction reactor, the fractional oxidation of La1-yCayNi0.9Cu0.1O3 reaches to 0.61, and the methane conversion is about 52% with 60% CO selectivity. In the steam reactor, oxygen vacancies and reduced metal ions (Ni2+ and Cu2+) in doped perovskites can provide more active sites to break chemical bonds of H-O. It is found that La1-yCayNi0.9Cu0.1O3 has the best reactivity, regenerability and high resistance to carbon deposition among the synthesized perovskites. Our study is expected to provide a promising potential for  production by mid-temperature solar heat.
@@ -2497,8 +2486,7 @@ TI The dispersion of Au nanorods decorated on graphene oxide nanosheets for
 SO SUSTAINABLE MATERIALS AND TECHNOLOGIES
 LA English
 DT Article
-DE Au nanorods; ; Glucose modification; Graphene
-   oxide; Photothermal conversion
+DE Photothermal conversion
 ID PHOTO-ABSORBERS; GOLD NANORODS; EFFICIENT; NANOPARTICLES; NANOFLUIDS;
    ; FILM; DESALINATION; STILL; EVAPORATION
 AB Plasmonic metal/graphene oxide hybrid structures driven by either solar light or laser exhibit strong absorption and multiple functions to realize photothermal therapy, surface enhancement Raman scattering, and . We decorated graphene oxide (GO) by gold nanorods, forming a plasmonic nanofluid with strong optical absorption and enhanced  performance. GO nanosheets were modified by using glucose as an environment-friendly ligand and stabilizer in the Au-GO dispersion. The Au-GO dispersions showed an increased absorption in a broad band reaching near infrared region. Owing to the coupling effects between Au NRs and GO NSs, and 2D platform for localized heating, water evaporation can be accelerated by Au-GO dispersions. The  efficiency reached 84.1% under 1 kW m(-2) illumination, about 20% enhancement compared with GO dispersion alone. This work shows the feasibility of the approach with functionalized nanofluids for efficient solar  harvesting and utilization. (C) 2018 Published by Elsevier B.V.
@@ -2608,10 +2596,9 @@ TI Oxygen-Defected Molybdenum Oxides Hierarchical Nanostructure Constructed
 SO SOLAR RRL
 LA English
 DT Article
-DE MoOx hierarchical nanostructure; oxygen vacancies; photothermal
-   conversion; ; seawater desalination
+DE photothermal conversion
 ID LOW-COST; ; TIO2; NANOPARTICLES; CONVERSION; GRAPHENE; THERAPY
-AB  is a potential approach for fresh water recycling, thus attracting increasing attention recently. To further promote water evaporation rate, some new materials need to be developed, such as plasmonic transition metal oxides. In this work, we report an oxygen-defected molybdenum oxides hierarchical nanostructure (MoOx HNS) composed of ultrathin nanosheets with atomic-level thickness, which is demonstrated as an efficient absorber for . Benefiting from broadband light absorption and special assembled architecture, the resulting MoOx HNS loaded on a PTFE membrane (MoOx HNS Membrane) exhibits excellent performance for boosting steam generation rate. Under 1 sun (1kWm(-2)) illumination, the evaporation rate can reach at 1.255kgm(-2)h(-1), with the  conversion efficiency of 85.6%, which is one of the best performance compared with other desalination materials. Meanwhile, the MoOx HNS Membrane can achieve high-performance seawater desalination in both laboratorial and outdoor conditions. The enhanced water evaporation performance can be attributed to the synergistic effects of the efficient solar-to-thermal conversion and the unique channel structure. This work expands the scope of investigated materials which can be applied in seawater desalination system.
+AB  is a potential approach for fresh water recycling, thus attracting increasing attention recently. To further promote water evaporation rate, some new materials need to be developed, such as plasmonic transition Metal oxides. In this work, we report an oxygen-defected molybdenum oxides hierarchical nanostructure (MoOx HNS) composed of ultrathin nanosheets with atomic-level thickness, which is demonstrated as an efficient absorber for . Benefiting from broadband light absorption and special assembled architecture, the resulting MoOx HNS loaded on a PTFE membrane (MoOx HNS Membrane) exhibits excellent performance for boosting steam generation rate. Under 1 sun (1kWm(-2)) illumination, the evaporation rate can reach at 1.255kgm(-2)h(-1), with the  conversion efficiency of 85.6%, which is one of the best performance compared with other desalination materials. Meanwhile, the MoOx HNS Membrane can achieve high-performance seawater desalination in both laboratorial and outdoor conditions. The enhanced water evaporation performance can be attributed to the synergistic effects of the efficient solar-to-thermal conversion and the unique channel structure. This work expands the scope of investigated materials which can be applied in seawater desalination system.
 C1 [Lu, Qichen; Yang, Yong; Wang, Xun] Tsinghua Univ, Dept Chem, Key Lab Organ Optoelect & Mol Engn, Beijing 100084, Peoples R China.
    [Feng, Jianrui] Zhejiang Univ, Dept Chem, Hangzhou 310027, Zhejiang, Peoples R China.
 RP Wang, X (corresponding author), Tsinghua Univ, Dept Chem, Key Lab Organ Optoelect & Mol Engn, Beijing 100084, Peoples R China.
@@ -2705,8 +2692,7 @@ TI About the relevance of particle shape and graphene oxide on the behavior
 SO  CONVERSION AND MANAGEMENT
 LA English
 DT Article
-DE Nanofluids; Direct absorption solar collectors; Graphene oxide; Hybrid
-   nanoparticles
+DE 
 ID HEAT-TRANSFER CHARACTERISTICS; THERMAL-CONDUCTIVITY; NANOPLATELETS
    NANOFLUID; CARBON NANOTUBES; PHOTOTHERMAL PROPERTIES; STEAM-GENERATION;
    VAPOR GENERATION; WORKING FLUID; SILVER; FLOW
@@ -2844,12 +2830,11 @@ TI Thin film technology for : A new dawn
 SO SOLAR 
 LA English
 DT Review
-DE Solar ; Substrate materials; Thin film technology; Deposition
-   techniques; Steam generation; Heat localization
+DE Metal oxide
 ID SURFACE-PLASMON RESONANCE; ONE-SUN; METAL NANOPARTICLES; OXIDE
    NANOPARTICLES; EXERGY ANALYSIS; WATER; DESALINATION; PERFORMANCE; STILL;
    EFFICIENT
-AB The sun is considered as the most promising abundant renewable  source that can be exploited to solve many of human beings' challenges such as  and water scarcity. Solar  can be utilized in steam and vapor generation processes which has a great importance in many engineering applications such as water desalination, domestic water heating, and power generation. However, dilute solar flux (similar to 1000 W/m(2)) cannot supply the absorber with enough power required to overcome water latent heat of vaporization to evaporate water. Optical concentrators such as parabolic trough collector, parabolic dish reflector, and circular Fresnel lens can be used to concentrate the solar radiation to achieve the required power however they suffer from complexity and high cost. Moreover, the efficiency of the conventional solar desalination devices such as solar stills decreases dramatically with increasing bulk water quantity, due to the heat loss to bulk water. Therefore, the need to  (SG) devices, that localize heating on a thin layer of water rather than the water bulk, arises. Thin film technology has shown promising progress in SG in which solar  is utilized to wastewater desalination. The past five years have seen a significant surge in the development of thin film based SG devices. In this review, recently developed thin film-based SG devices are scrutinized with respect to their physical mechanisms, fabrication methods, structure, advantages, and disadvantages. Different types of thin-film materials, including: metal-based nanoparticles, metal oxides, carbon-based materials, polymers, etc.; as well as different substrates materials, including: wood, paper, cotton fabric, carbon fabric, polystyrene foam, and gauze, have been discussed. Moreover, different preparation and synthetization methods of the steam generation devices have been discussed. Suggestions for future research directions are also presented.
+AB The sun is considered as the most promising abundant renewable  source that can be exploited to solve many of human beings' challenges such as  and water scarcity. Solar  can be utilized in steam and vapor generation processes which has a great importance in many engineering applications such as water desalination, domestic water heating, and power generation. However, dilute solar flux (similar to 1000 W/m(2)) cannot supply the absorber with enough power required to overcome water latent heat of vaporization to evaporate water. Optical concentrators such as parabolic trough collector, parabolic dish reflector, and circular Fresnel lens can be used to concentrate the solar radiation to achieve the required power however they suffer from complexity and high cost. Moreover, the efficiency of the conventional solar desalination devices such as solar stills decreases dramatically with increasing bulk water quantity, due to the heat loss to bulk water. Therefore, the need to  (SG) devices, that localize heating on a thin layer of water rather than the water bulk, arises. Thin film technology has shown promising progress in SG in which solar  is utilized to wastewater desalination. The past five years have seen a significant surge in the development of thin film based SG devices. In this review, recently developed thin film-based SG devices are scrutinized with respect to their physical mechanisms, fabrication methods, structure, advantages, and disadvantages. Different types of thin-film materials, including: metal-based nanoparticles, Metal oxides, carbon-based materials, polymers, etc.; as well as different substrates materials, including: wood, paper, cotton fabric, carbon fabric, polystyrene foam, and gauze, have been discussed. Moreover, different preparation and synthetization methods of the steam generation devices have been discussed. Suggestions for future research directions are also presented.
 C1 [Elsheikh, Ammar H.; Zhang Haiou] Huazhong Univ Sci & Technol, Sch Mech Sci & Engn, State Key Lab Digital Mfg & Equipment Technol, Wuhan 430074, Peoples R China.
    [Elsheikh, Ammar H.] Tanta Univ, Dept Prod Engn & Mech Design, Tanta 31527, Egypt.
    [Sharshir, Swellam W.] Kafrelsheikh Univ, Fac Engn, Mech Engn Dept, Kafrelsheikh 33516, Egypt.
@@ -3019,8 +3004,7 @@ TI Mechanically interlocked 1T/2H phases of MoS2 nanosheets for solar
 SO NANO 
 LA English
 DT Article
-DE Chemically exfoliated MoS2; 1T and 2H phases; Photothermal; Bacterial
-   nanocellulose; 
+DE Photothermal Conversion
 ID MOLYBDENUM-DISULFIDE; GRAPHENE OXIDE; ONE SUN; DESALINATION; EFFICIENT;
    TRANSITION; 2D; PHOTOLUMINESCENCE; TRANSPIRATION; MONOLAYER
 AB  through photothermal conversion and heat localization is an emerging technology that can potentially alleviate shortages of clean water. As a two-dimensional transition-metal dichalcogenide, molybdenum disulfide (MoS2) has been employed for harvesting solar  in  gas production, disinfection, and solar cells. Here, for the first time, we demonstrate that chemically exfoliated (ce) MoS2 can be a highly efficient, scalable, and environmentally benign (low toxicity) photothermal material for solar evaporators to create fresh water. Notably, the phase transition of MoS2 from 2H (trigonal prismatic coordination) to 1T (octahedral coordination) during the exfoliation process enhances the light absorption of the ce-MoS2, generating heat more effectively. Owing to the efficient photothermal conversion of ce-MoS2 nanosheets and heat localization from using bacterial nanocellulose foam as support, high solar evaporation efficiencies of similar to 76% and similar to 81% are achieved under 0.76 kW/m(2) and 5.35 kW/m(2) light intensities, respectively. In addition, the cytotoxicity of ce-MoS2 nanosheets was lower than that of graphene oxide (GO) nanosheets with a similar size, a commonly suggested material for , which can alleviate the potential environmental risk. These findings not only establish ce-MoS2 as a highly attractive material for , but also broaden the uses of ce-MoS2 to include solar harvesting applications.
@@ -3135,12 +3119,11 @@ TI Two-dimensional defective tungsten oxide nanosheets as high performance
 SO SOLAR  MATERIALS AND SOLAR CELLS
 LA English
 DT Article
-DE Photothermal conversion; ; Tungsten oxide; Oxygen
-   vacancy; Nanofluids
+DE Photothermal conversion
 ID SURFACE-PLASMON RESONANCES; PHOTOTHERMAL CONVERSION; ONE SUN;
    NANOPARTICLES; DESALINATION; ; TECHNOLOGY; VACANCIES; OXYGEN;
    LAYER
-AB Efficient solar-driven evaporation has engendered great interests as a sustainable and environmental approach for solar  utilization. The development of high-performance photo-absorbers is of paramount importance for realizing efficient solar evaporation. Among the light-harvesting materials, transition metal oxide (TMO) is regarded as one of the most promising substitutes for photothermal conversion. Here, two-dimensional (2D) defective tungsten oxide (WOx) nanosheets are prepared via introducing oxygen vacancies in WO3. It demonstrates that the novel 2D plasmonic WOx nanosheets can be used as high performance photo-absorbers for efficient , displaying broadband and intense light absorption in the full solar spectrum due to the tunable localized surface plasmon resonances. Its evaporation efficiency reaches 78.6% under similar to 1 kW/m(2) (one sun) irradiation. The result reveals that adjusting the surface nanostructures and morphologies of TMO can be thought to be a potential strategy to promote the light-harvesting performance for . This study is significant for further exploring potential applications of plasmonic semiconductors in sterilization, desalination, and photothermal power through .
+AB Efficient solar-driven evaporation has engendered great interests as a sustainable and environmental approach for solar  utilization. The development of high-performance photo-absorbers is of paramount importance for realizing efficient solar evaporation. Among the light-harvesting materials, transition Metal oxide (TMO) is regarded as one of the most promising substitutes for photothermal conversion. Here, two-dimensional (2D) defective tungsten oxide (WOx) nanosheets are prepared via introducing oxygen vacancies in WO3. It demonstrates that the novel 2D plasmonic WOx nanosheets can be used as high performance photo-absorbers for efficient , displaying broadband and intense light absorption in the full solar spectrum due to the tunable localized surface plasmon resonances. Its evaporation efficiency reaches 78.6% under similar to 1 kW/m(2) (one sun) irradiation. The result reveals that adjusting the surface nanostructures and morphologies of TMO can be thought to be a potential strategy to promote the light-harvesting performance for . This study is significant for further exploring potential applications of plasmonic semiconductors in sterilization, desalination, and photothermal power through .
 C1 [Ming, Xin; Guo, Ankang; Wang, Gang; Wang, Xianbao] Hubei Univ, Hubei Collaborat Innovat Ctr Adv Organ Chem Mat, Minist Of Educ,Sch Mat Sci & Engn, Key Lab Green Preparat & Applicat Funct Mat,Hubei, Wuhan 430062, Peoples R China.
 RP Wang, XB (corresponding author), Hubei Univ, Hubei Collaborat Innovat Ctr Adv Organ Chem Mat, Minist Of Educ,Sch Mat Sci & Engn, Key Lab Green Preparat & Applicat Funct Mat,Hubei, Wuhan 430062, Peoples R China.
 EM wangxb68@aliyun.com
@@ -3249,11 +3232,10 @@ TI Melt Electrospun Reduced Tungsten Oxide/Polylactic Acid Fiber Membranes
 SO ACS APPLIED MATERIALS & INTERFACES
 LA English
 DT Article
-DE tungsten trioxide (WO3); polylactic acid (PLA); melt electrospinning;
-   photothermal conversion; water evaporation
+DE photothermal conversion;evaporator;Metal oxide
 ID HIGHLY EFFICIENT; HEAT CONVERSION; SOLAR DESALINATION; GRAPHENE; STEAM;
    ; PERFORMANCE; GENERATION; NANOFIBERS; ABLATION
-AB The development of efficient photothermal materials is the most important issue in solar water evaporation. In this work, melt electrospun reduced tungsten oxide/polylactic acid (WO2.72/PLA) fiber membranes were successfully prepared with improved near-infrared (NIR) photothermal conversion properties owing to strong NIR photoabsorption by the metal oxide. WO2.72 powder nanoparticles were incorporated into PLA matrix by melt processing, following which the composites were extruded into wires using a single screw extruder. Subsequently, fiber membranes were prepared from the extruded wire of the WO2.72/PLA composite by melt electrospinning, which is a cost-effective technique that can produce fiber membranes without the addition of environmentally unfriendly chemicals. The melt electrospun WO2.72/PLA fiber membranes, floatable on water due to surface hydrophobicity, were systematically designed for, and applied to, vapor generation based on the interfacial concept of solar heating. With the photothermal WO2.72/PLA fiber membrane containing 7 wt % WO2.72 nanoparticles, the water evaporation efficiency was reached 81.39%, which is higher than that for the pure PLA fiber membrane and bulk water. Thus, this work contributes to the development of novel photothermal fiber membranes in order to enhance light-driven water evaporation performance for potential applications in the fields of and desalination.
+AB The development of efficient photothermal materials is the most important issue in solar water evaporation. In this work, melt electrospun reduced tungsten oxide/polylactic acid (WO2.72/PLA) fiber membranes were successfully prepared with improved near-infrared (NIR) photothermal conversion properties owing to strong NIR photoabsorption by the Metal oxide. WO2.72 powder nanoparticles were incorporated into PLA matrix by melt processing, following which the composites were extruded into wires using a single screw extruder. Subsequently, fiber membranes were prepared from the extruded wire of the WO2.72/PLA composite by melt electrospinning, which is a cost-effective technique that can produce fiber membranes without the addition of environmentally unfriendly chemicals. The melt electrospun WO2.72/PLA fiber membranes, floatable on water due to surface hydrophobicity, were systematically designed for, and applied to, vapor generation based on the interfacial concept of solar heating. With the photothermal WO2.72/PLA fiber membrane containing 7 wt % WO2.72 nanoparticles, the water evaporation efficiency was reached 81.39%, which is higher than that for the pure PLA fiber membrane and bulk water. Thus, this work contributes to the development of novel photothermal fiber membranes in order to enhance light-driven water evaporation performance for potential applications in the fields of and desalination.
 C1 [Chala, Tolesa Fita; Wu, Chang-Mou; Chou, Min-Hui; Guo, Zhen-Lin] Natl Taiwan Univ Sci & Technol, Dept Mat Sci & Engn, Taipei 10607, Taiwan.
 RP Wu, CM (corresponding author), Natl Taiwan Univ Sci & Technol, Dept Mat Sci & Engn, Taipei 10607, Taiwan.
 EM cmwu@mail.ntust.edu.tw
@@ -3370,10 +3352,9 @@ TI Copper-oxide spinel absorber coatings for high-temperature concentrated
 SO SOLAR  MATERIALS AND SOLAR CELLS
 LA English
 DT Article
-DE CSP; Concentrated solar power; Absorber coating; High temperature;
-   Copper oxide
+DE Metal oxide
 ID THIN-FILMS; BLACK; NANOPARTICLES; COLLECTORS
-AB Concentrated Solar Power (CSP), a promising renewable  technology, involves methods to concentrate the sun's  onto receiver systems that generate steam, activate turbines, and consequently generate electrical power. To ensure CSP technologies remain cost-competitive, absorber coatings on CSP receiver systems require performance enhancements for increasing solar-thermal  conversion efficiency. In this work, black metal oxide nanoparticles comprising copper-cobalt oxides (CuxCo3-xO4)and copper-manganese oxides (CuxMn3-xO4) are synthesized for solar absorptive potential by hydrothermal syntheses- selected for low-cost, -efficient fabrication capable for bulk manufacturability. The material is deposited onto high-temperature, durable Inconel substrates by a flexible spray-coating method, and characterization is performed by Scanning Electron Microscopy (SEM), -Dispersive X-Ray Spectroscopy (EDS), and X-Ray Powder Diffraction (XRD) analyses, as well as measurements to gauge thermal performance. High temperature stability of a model solar receiver surface using these synthesized materials are assessed by comparing spectral reflectance and a figure-of-merit efficiency metric before and after high temperature exposure beyond 1000 h. To extend spectrally-selective absorbance capability, the coating surfaces are geometrically-textured using sacrificial polymer beads that are jointly implemented in the spray-coating process. This study ultimately showcases materials produced with high figure-of-merit conversion efficiency, demonstrating solar absorber coatings capable of interfacing with next generation CSP receiver systems.
+AB Concentrated Solar Power (CSP), a promising renewable  technology, involves methods to concentrate the sun's  onto receiver systems that generate steam, activate turbines, and consequently generate electrical power. To ensure CSP technologies remain cost-competitive, absorber coatings on CSP receiver systems require performance enhancements for increasing solar-thermal  conversion efficiency. In this work, black Metal oxide nanoparticles comprising copper-cobalt oxides (CuxCo3-xO4)and copper-manganese oxides (CuxMn3-xO4) are synthesized for solar absorptive potential by hydrothermal syntheses- selected for low-cost, -efficient fabrication capable for bulk manufacturability. The material is deposited onto high-temperature, durable Inconel substrates by a flexible spray-coating method, and characterization is performed by Scanning Electron Microscopy (SEM), -Dispersive X-Ray Spectroscopy (EDS), and X-Ray Powder Diffraction (XRD) analyses, as well as measurements to gauge thermal performance. High temperature stability of a model solar receiver surface using these synthesized materials are assessed by comparing spectral reflectance and a figure-of-merit efficiency metric before and after high temperature exposure beyond 1000 h. To extend spectrally-selective absorbance capability, the coating surfaces are geometrically-textured using sacrificial polymer beads that are jointly implemented in the spray-coating process. This study ultimately showcases materials produced with high figure-of-merit conversion efficiency, demonstrating solar absorber coatings capable of interfacing with next generation CSP receiver systems.
 C1 [Karas, Dale E.; Byun, Jongmin; Moon, Jaeyun] Univ Nevada, Dept Mech Engn, Ctr  Res, Las Vegas, NV 89154 USA.
    [Jose, Cilla] Univ Nevada, Dept Chem & Biochem, Las Vegas, NV 89154 USA.
 RP Moon, J (corresponding author), Univ Nevada, 4505 S Maryland Pkwy,45-4027,SEB, Las Vegas, NV 89154 USA.
@@ -3488,7 +3469,7 @@ LA English
 DT Article
 ID ONE SUN; WATER; EVAPORATION; HEAT; GRAPHENE; NANOPARTICLES;
    DESALINATION; PERFORMANCE; MEMBRANES; FILM
-AB The  efficiency in  by 2D photothermal materials has approached its limit. In this work, we fabricated 3D cylindrical cup-shaped structures of mixed metal oxide as solar evaporator, and the 3D structure led to a high  efficiency close to 100% under one-sun illumination due to the capability of the cup wall to recover the diffuse reflectance and thermal radiation heat loss from the 2D cup bottom. Additional heat was gained from the ambient air when the 3D structure was exposed under one-sun illumination, leading to an extremely high steam generation rate of 2.04 kg m(-2) h(-1). The 3D structure has a high thermal stability and shows great promise in practical applications including domestic wastewater volume reduction and seawater desalination. The results of this work inspire further research efforts to use 3D photothermal structures to break through the  efficiency limit of 2D photothermal materials.
+AB The  efficiency in  by 2D photothermal materials has approached its limit. In this work, we fabricated 3D cylindrical cup-shaped structures of mixed Metal oxide as solar evaporator, and the 3D structure led to a high  efficiency close to 100% under one-sun illumination due to the capability of the cup wall to recover the diffuse reflectance and thermal radiation heat loss from the 2D cup bottom. Additional heat was gained from the ambient air when the 3D structure was exposed under one-sun illumination, leading to an extremely high steam generation rate of 2.04 kg m(-2) h(-1). The 3D structure has a high thermal stability and shows great promise in practical applications including domestic wastewater volume reduction and seawater desalination. The results of this work inspire further research efforts to use 3D photothermal structures to break through the  efficiency limit of 2D photothermal materials.
 C1 [Shi, Yusuf; Li, Renyuan; Jin, Yong; Zhuo, Sifei; Shi, Le; Chang, Jian; Hong, Seunghyun; Ng, Kim-Choon; Wang, Peng] King Abdullah Univ Sci & Technol, Water Desalinat & Reuse Ctr, Div Biol & Environm Sci & Engn, Thuwal 239556900, Saudi Arabia.
    [Jin, Yong; Wang, Peng] King Abdullah Univ Sci & Technol, KSC, Thuwal 239556900, Saudi Arabia.
 RP Wang, P (corresponding author), King Abdullah Univ Sci & Technol, Water Desalinat & Reuse Ctr, Div Biol & Environm Sci & Engn, Thuwal 239556900, Saudi Arabia.; Wang, P (corresponding author), King Abdullah Univ Sci & Technol, KSC, Thuwal 239556900, Saudi Arabia.
@@ -3604,8 +3585,7 @@ TI Plasmonic Graphene Polyurethane Nanocomposites for Efficient Solar Water
 SO ACS APPLIED  MATERIALS
 LA English
 DT Article
-DE plasmonic graphene polyurethane; solar water desalination; photothermal
-    conversion; ; solar absorber foams;
+DE photothermalconversion
    seawater desalination; thermal evaporation efficiency
 ID STEAM-GENERATION; ONE-SUN; VAPOR GENERATION; OXIDE; HEAT; NANOPARTICLES;
    ; ABSORBERS; MEMBRANES; BIOFOAM
@@ -3717,8 +3697,7 @@ TI Solar thermal hybrids for combustion power plant: A growing opportunity
 SO PROGRESS IN  AND COMBUSTION SCIENCE
 LA English
 DT Review
-DE Concentrated solar thermal ; Hybrid systems; Carbon capture;
-    storage; Firm supply
+DE 
 ID CHEMICAL-LOOPING-COMBUSTION; INHERENT CO2 SEPARATION; LIQUID-METAL
    OXIDES; OXYGEN CARRIERS; -STORAGE; GENERATION SYSTEM; MILD
    COMBUSTION; ECONOMIC-EVALUATION; STEAM-GASIFICATION; CARBON CAPTURE
@@ -3930,13 +3909,13 @@ TI Solar fuels via chemical-looping reforming
 SO SOLAR 
 LA English
 DT Article
-DE Fuel; Solar thermochemical; Metal oxide; Reforming
+DE Metal oxide
 ID METHANE PARTIAL OXIDATION; THERMOCHEMICAL -PRODUCTION;
    PEROVSKITE-TYPE OXIDES; OXYGEN-CARRIER MATERIALS; MACROPOROUS LAFEO3
    PEROVSKITES; LANTHANUM-BASED PEROVSKITE; WATER-SPLITTING REACTION;
    SYNTHESIS GAS GENERATION; CEO2-ZRO2 SOLID-SOLUTION; COMBINED
    ZNO-REDUCTION
-AB The potential of solar thermal chemical-looping reforming for efficient and sustainable co-production of synthesis gas and  is discussed. In an endothermic partial oxidation step, methane reacts with oxygen released from a metal oxide to produce  and carbon monoxide. In an exothermic second step, steam reacts with the reduced metal oxide to produce . This review summarizes the process and chemical thermodynamic foundations of solar chemical-looping reforming and provides a synopsis of materials studies that reflect the state of knowledge in 2017. The challenges and opportunities for future research and development are discussed. (C) 2017 Elsevier Ltd. All rights reserved.
+AB The potential of solar thermal chemical-looping reforming for efficient and sustainable co-production of synthesis gas and  is discussed. In an endothermic partial oxidation step, methane reacts with oxygen released from a Metal oxide to produce  and carbon monoxide. In an exothermic second step, steam reacts with the reduced Metal oxide to produce . This review summarizes the process and chemical thermodynamic foundations of solar chemical-looping reforming and provides a synopsis of materials studies that reflect the state of knowledge in 2017. The challenges and opportunities for future research and development are discussed. (C) 2017 Elsevier Ltd. All rights reserved.
 C1 [Krenzke, Peter T.] Taylor Univ, Phys & Engn Dept, 236 W Reade Ave, Upland, IN 46989 USA.
    [Fosheim, Jesse R.; Davidson, Jane H.] Univ Minnesota, Dept Mech Engn, 111 Church St SE, Minneapolis, MN 55455 USA.
 RP Davidson, JH (corresponding author), Univ Minnesota, Dept Mech Engn, 111 Church St SE, Minneapolis, MN 55455 USA.
@@ -4183,7 +4162,7 @@ SO SOLAR
 LA English
 DT Review
 ID SOLAR HEAT; EFFICIENCY; WATER; CYCLE; OXIDE; GENERATION; CERIA
-AB Solar thermal splitting of water or carbon dioxide is a promising technology for producing  or carbon monoxide. In a two-step cycle, a metal oxide is thermally reduced with concentrated solar radiation to release oxygen. The reduced metal oxide is then re-oxidized with steam or carbon dioxide to produce  or carbon monoxide, or simultaneously with both to produce . The two-step redox cycle can be operated either as a temperature swing where there is a temperature difference between the reduction and oxidation steps or isothermally. This review article discusses various aspects of operating the redox cycle isothermally including redox cycle thermodynamics and overall system efficiency and describes solar reactor concepts based on isothermal operation. (C) 2017 Elsevier Ltd. All rights reserved.
+AB Solar thermal splitting of water or carbon dioxide is a promising technology for producing  or carbon monoxide. In a two-step cycle, a Metal oxide is thermally reduced with concentrated solar radiation to release oxygen. The reduced Metal oxide is then re-oxidized with steam or carbon dioxide to produce  or carbon monoxide, or simultaneously with both to produce . The two-step redox cycle can be operated either as a temperature swing where there is a temperature difference between the reduction and oxidation steps or isothermally. This review article discusses various aspects of operating the redox cycle isothermally including redox cycle thermodynamics and overall system efficiency and describes solar reactor concepts based on isothermal operation. (C) 2017 Elsevier Ltd. All rights reserved.
 C1 [Al-Shankiti, Ibraheam; Ehrhart, Brian D.; Weimer, Alan W.] Univ Colorado, Dept Chem & Biol Engn, Boulder, CO 80309 USA.
    [Al-Shankiti, Ibraheam] KAUST, Saudi Basic Ind Corp SABIC, Corp Res & Innovat Ctr CRI, Thuwal, Saudi Arabia.
 RP Weimer, AW (corresponding author), Univ Colorado, Dept Chem & Biol Engn, Boulder, CO 80309 USA.
@@ -4249,11 +4228,11 @@ TI Iron-Doped BaMnO3 for Hybrid Water Splitting and  Generation
 SO CHEMSUSCHEM
 LA English
 DT Article
-DE chemical looping; ; perovskite; ; water splitting
+DE 
 ID TEMPERATURE SOLAR THERMOCHEMISTRY; CHEMICAL-LOOPING COMBUSTION; METHANE
    REFORMING REACTION; AUGMENTED-WAVE METHOD; -PRODUCTION;
    OXYGEN-CARRIERS; SYNTHESIS GAS; NI CATALYST; CO2; PROGRESS
-AB A rationalized strategy to optimize transition-metal-oxide-based redox catalysts for water splitting and  generation through a hybrid solar-redox process is proposed and validated. Monometallic transition metal oxides do not possess desirable properties for water splitting; however, density functional theory calculations indicate that the redox properties of perovskite-structured BaMnxFe1-xO3- can be varied by changing the B-site cation compositions. Specifically, BaMn0.5Fe0.5O3- is projected to be suitable for the hybrid solar-redox process. Experimental studies confirm such predictions, demonstrating 90% steam-to- conversion in water splitting and over 90%  yield in the methane partial-oxidation step after repeated redox cycles. Compared to state-of-the-art solar-thermal water-splitting catalysts, the rationally designed redox catalyst reported is capable of splitting water at a significantly lower temperature and with ten-fold increase in steam-to- conversion. Process simulations indicate the potential to operate the hybrid solar-redox process at a higher efficiency than state-of-the-art  and liquid-fuel production processes with 70% lower CO2 emissions for  production
+AB A rationalized strategy to optimize transition-metal-oxide-based redox catalysts for water splitting and  generation through a hybrid solar-redox process is proposed and validated. Monometallic transition Metal oxides do not possess desirable properties for water splitting; however, density functional theory calculations indicate that the redox properties of perovskite-structured BaMnxFe1-xO3- can be varied by changing the B-site cation compositions. Specifically, BaMn0.5Fe0.5O3- is projected to be suitable for the hybrid solar-redox process. Experimental studies confirm such predictions, demonstrating 90% steam-to- conversion in water splitting and over 90%  yield in the methane partial-oxidation step after repeated redox cycles. Compared to state-of-the-art solar-thermal water-splitting catalysts, the rationally designed redox catalyst reported is capable of splitting water at a significantly lower temperature and with ten-fold increase in steam-to- conversion. Process simulations indicate the potential to operate the hybrid solar-redox process at a higher efficiency than state-of-the-art  and liquid-fuel production processes with 70% lower CO2 emissions for  production
 C1 [Haribal, Vasudev Pralhad; He, Feng; Mishra, Amit; Li, Fanxing] North Carolina State Univ, Dept Chem & Biomol Engn, 911 Partners Way, Raleigh, NC 27695 USA.
 RP Li, FX (corresponding author), North Carolina State Univ, Dept Chem & Biomol Engn, 911 Partners Way, Raleigh, NC 27695 USA.
 EM fli5@ncsu.edu
@@ -4354,8 +4333,7 @@ TI Accessible Graphene Aerogel for Efficiently Harvesting Solar
 SO ACS SUSTAINABLE CHEMISTRY & ENGINEERING
 LA English
 DT Article
-DE Graphene aerogel; Photothermal conversion; Solar steam; Photoreduction;
-   Heating
+DE Photothermal conversion
 ID CLEAN WATER GENERATION; STEAM-GENERATION; VAPOR GENERATION; PLASMONIC
    NANOPARTICLES; HEAT LOCALIZATION; POROUS GRAPHENE; ONE SUN; OXIDE;
    EVAPORATION; SYSTEM
@@ -4461,8 +4439,7 @@ TI Aluminum Nitride Hydrolysis Enabled by Hydroxyl-Mediated Surface Proton
 SO ACS APPLIED MATERIALS & INTERFACES
 LA English
 DT Article
-DE metal nitride; hydrolysis;  density functional theory; proton
-   hopping thermochemical redox; ammonia synthesis
+DE 
 ID INITIO MOLECULAR-DYNAMICS; FINDING SADDLE-POINTS; NUDGED ELASTIC-BAND;
    THERMAL-CONDUCTIVITY; AMMONIA-SYNTHESIS; AQUEOUS SOLVENT; WATER;
    ; POWDER; REDUCTION
@@ -4701,9 +4678,7 @@ TI Fate of methanol under one-pot artificial photosynthesis condition with
 SO CATALYSIS TODAY
 LA English
 DT Article
-DE Artificial photosynthesis; Photocatalytic deation; Methanol
-   steam reforming; Formaldehyde autooxidation; Oxidative coupling; Charge
-   transfer
+DE 
 ID CARBON-DIOXIDE; FORMIC-ACID; METHYL FORMATE; CO2 REDUCTION; 
    GENERATION; SELECTIVE OXIDATION; CATALYTIC-REDUCTION; TITANIUM-DIOXIDE;
    PHOTO REDUCTION; OXIDE CATALYSTS
@@ -4879,7 +4854,7 @@ AF Martinek, Janna
    Viger, Rachel
    Weimer, Alan W.
 TI Transient simulation of a tubular packed bed solar receiver for 
-   generation via metal oxide thermochemical cycles
+   generation via Metal oxide thermochemical cycles
 SO SOLAR 
 LA English
 DT Article
@@ -4987,7 +4962,7 @@ TI Investigation of Iron Oxide Morphology in a Cyclic Redox Water Splitting
 SO MATERIALS
 LA English
 DT Article
-DE solar fuels; SEM; EDS; steam-iron process; water splitting; magnetite
+DE 
 ID THERMOCHEMICAL PRODUCTION; REDUCTION; KINETICS; 
 AB A solar fuels generation research program is focused on  production by means of reactive metal water splitting in a cyclic iron-based redox process. Iron-based oxides are explored as an intermediary reactive material to dissociate water molecules at significantly reduced thermal energies. With a goal of studying the resulting oxide chemistry and morphology, chemical assistance via CO is used to complete the redox cycle. In order to exploit the unique characteristics of highly reactive materials at the solar reactor scale, a monolithic laboratory scale reactor has been designed to explore the redox cycle at temperatures ranging from 675 to 875 K. Using high resolution scanning electron microscope (SEM) and electron dispersive X-ray spectroscopy (EDS), the oxide morphology and the oxide state are quantified, including spatial distributions. These images show the change of the oxide layers directly after oxidation and after reduction. The findings show a significant non-stoichiometric O/Fe gradient in the atomic ratio following oxidation, which is consistent with a previous kinetics model, and a relatively constant, non-stoichiometric O/Fe atomic ratio following reduction.
 C1 [Bobek, Michael M.; Stehle, Richard C.; Hahn, David W.] Univ Florida, Dept Mech & Aerosp Engn, Gainesville, FL 32611 USA.
@@ -5073,8 +5048,7 @@ TI Oxidation reaction kinetics for the steam-iron process in support of
 SO INTERNATIONAL JOURNAL OF  
 LA English
 DT Article
-DE Magnetite; Hematite;  production; Steam-iron process; Water
-   splitting
+DE 
 ID WATER; OXIDES; FE3O4(111); ADSORPTION; REDUCTION; FEO(111); 
 AB A  generation research program is focused on solar-driven  production by means of reactive metal water splitting. In order to dissociate water molecules at significantly reduced thermal energies as well as providing a practical means for efficient  and oxygen separation, an intermediary reactive material is introduced to realize water splitting in the form of an oxidation reaction. Elemental iron is used as the reactive material in the process commonly referred to as the steam-iron process. In order to exploit the unique characteristics of highly reactive materials and ultimately achieve the potential efficiency gains at the solar reactor scale, a monolithic laboratory-scale reactor has been designed to explore the fundamental kinetic rates during the iron oxidation reaction at temperatures ranging from about 650 to 900 K. Results show  production rates on the order of 1E-8 g/cm(2) s. Micro-Raman spectroscopy is used to access information on the exact iron oxide phase produced, and high resolution SEM and electron dispersion spectroscopy (EDS) are used to assess the oxide morphology and further quantify the oxide state, including spatial distributions. Copyright (C) 2011,   Publications, LLC. Published by Elsevier Ltd. All rights reserved.
 C1 [Stehle, R. C.; Bobek, M. M.; Hooper, R.; Hahn, D. W.] Univ Florida, Dept Mech & Aerosp Engn, Gainesville, FL 32611 USA.
@@ -5166,12 +5140,11 @@ TI  Production by Two-Step Water-Splitting Thermochemical Cycle
 SO PROGRESS IN CHEMISTRY
 LA Chinese
 DT Article
-DE two-step thermochemical cycle; water; metal oxide; ; solar
-   ; two-step steam reforming of methane
+DE Metal oxide
 ID OXYGEN-RELEASING STEP; SOLAR CHEMICAL REACTOR; H-2 GENERATION; SYNTHESIS
    GAS; THERMAL-DISSOCIATION; PARTIAL OXIDATION; ZN-FERRITE; METHANE; ZINC;
    DECOMPOSITION
-AB The process of two-step water-splitting thermochemical cycle based on metal oxide redox system is a solar  storage and  production technology, which has become one focus in new  research and development field. The principle of this  production technology is introduced, research progress of key materials-metal oxide systems and solar reactor are reviewed, and "bottleneck" on the way to largescale application is analyzed. In the end, two-step steam reforming of methane (two-step SRM) derived from two-step water-splitting thermochemical cycle based on metal oxide redox system in recent years, as well as metal oxide materials involved in this novel technology are discussed. Furthermore, research direction in this field is proposed.
+AB The process of two-step water-splitting thermochemical cycle based on Metal oxide redox system is a solar  storage and  production technology, which has become one focus in new  research and development field. The principle of this  production technology is introduced, research progress of key materials-Metal oxide systems and solar reactor are reviewed, and "bottleneck" on the way to largescale application is analyzed. In the end, two-step steam reforming of methane (two-step SRM) derived from two-step water-splitting thermochemical cycle based on Metal oxide redox system in recent years, as well as Metal oxide materials involved in this novel technology are discussed. Furthermore, research direction in this field is proposed.
 C1 [Zhu Xing; Wang Hua; Wei Yonggang; Li Kongzhai; Yan Dongxia] Kunming Univ Sci & Technol, Fac Met &  Engn, Kunming 650093, Peoples R China.
 RP Wang, H (corresponding author), Kunming Univ Sci & Technol, Fac Met &  Engn, Kunming 650093, Peoples R China.
 EM wanghuaheat@hotmail.com
@@ -5289,9 +5262,7 @@ TI A closed-loop proposal for  generation using steel waste and a
 SO INTERNATIONAL JOURNAL OF  RESEARCH
 LA English
 DT Article
-DE  generation; mill-scale; nanoscale
-   zerovalent iron; X-ray diffraction; electron microscopy; solar
-   concentrator
+DE 
 ID IRON; REDUCTION; STORAGE
 AB An economically viable and environmental-friendly method of generating PEM grade  has been proposed and is by the reaction of certain metals with steam, appropriately called 'metal-steam reforming'-MSR. The drawbacks of conventional processes ( and carbothermic reduction schemes) are overcome by resorting to solution-based reduction schemes and are made economically feasible using iron oxides from steel industry's mill-scale waste. A novel aqueous-based room temperature technique using sodium borohydride (NaBH4) as the reducing agent has been developed that produces highly active nanoscale iron particles (similar to 40nm). By using hydrazine as an inexpensive and, compared with NaBH4, more stable reductant, body centered cubic iron particles with similar to 5 nm edges were obtained via solvothermal process under mild conditions from acid digested mill-scale waste. The nanoscale zerovalent iron (nZVI) powder showed improved kinetics and greater propensity for  generation than the coarser microscale iron. The rate constants for the MSR were obtained for all the reduction schemes employed in this work and are given by k() = 0.0158 min(-1) k(carbon) = 0.0248 min(-1) k(sodiumborohydride) = 0.0521 min(-1) and k(hydrazine) = 0.1454 min(-1), assuming first order kinetics. Another innovative effort converted the magnetite waste directly into nZVl under solvothermal conditions, thus obviating the sluggish and time-consuming acid dissolution step. This particular aspect has significant ramification in terms of time and cost of making the iron precursor. To initiate and sustain the somewhat endothermic MSR process, a solar concentrator consisting of a convex polyacrylic bowl with reflective aluminum coating was fabricated and evaluated. This unique combination of mill-scale waste as iron source, hydrazine as reductant, mild process conditions and solar  as the MSR actuator obviates several drawbacks plaguing the grand scheme of producing and delivering pure and humidified H-2 to a PEMFC stack. Copyright (C) 2008 John Wiley & Sons, Ltd.
 C1 [Azad, Abdul-Majeed; Kesavan, Sathees; Al-Batty, Sirhan] Univ Toledo, Dept Chem Engn, Toledo, OH 43606 USA.
@@ -5467,8 +5438,7 @@ CT 13th SOLARPACES International Symposium on Concentrated Solar Power and
    Chemical  Technologies
 CY JUN, 2006
 CL Seville, SPAIN
-DE solar chemistry; concentrated solar heat; solar ; thermochemical
-   water splitting; redox metal oxide
+DE Metal oxide
 ID -PRODUCTION; REDOX SYSTEM; SOLAR HEAT
 AB An iron-containing yttria-stabilized zirconia (YSZ) or Fe-YSZ was found to be a promising working redox material for the thermochemical two-step water-splitting cycle. The Fe-YSZ was formed by a high-temperature reaction between YSZ doped with more than 8 mol % Y2O3 and Fe3O4 supported on the YSZ at 1400 degrees C in an inert atmosphere. The formed Fe-YSZ reacted with steam to generate  at 1000 degrees C. The oxidized Fe-YSZ was reactivated by a thermal reduction at 1400 degrees C in an inert atmosphere. The alternative O-2 and H-2 generations in the repeated two-step reactions and the X-ray diffraction and chemical analysis studies on the solid materials indicated that the two-step water splitting was associated with a redox transition between Fe2+-Fe3+ ions in the cubic YSZ lattice.
 C1 [Gokon, Nobuyuki; Minno, Takayuki; Nakamuro, Yumiko] Niigata Univ, Grad Sch Sci & Technol, Nishi Ku, Niigata 9502181, Japan.
@@ -5533,10 +5503,9 @@ TI Two-step water splitting thermochemical cycle based on iron oxide redox
 SO 
 LA English
 DT Article
-DE iron oxides; ; water-splitting; thermochemical cycle; solar
-   concentrated 
+DE 
 ID THERMAL-DECOMPOSITION; SYSTEM; FERRITES; 
-AB This study deals with solar  production from the two-step iron oxide thermochemical cycle (Fe3O4/FeO). This cycle involves the endothermic solar-driven reduction of the metal oxide (magnetite) at high temperature followed by the exothermic steam hydrolysis of the reduced metal oxide (wustite) for  generation. Thermodynamic and experimental investigations have been performed to quantify the performances of this cycle for  production. High-temperature decomposition reaction (metal oxide reduction) was performed in a solar reactor set at the focus of a laboratory-scale solar furnace. The operating conditions for obtaining the complete reduction of magnetite into wustite were defined. An inert atmosphere is required to prevent re-oxidation of Fe(Il) oxide during quenching. The water-splitting reaction with iron(II) oxide producing  was studied to determine the chemical kinetics, and the influence of temperature and particles size on the chemical conversion. A conversion of 83% was obtained for the hydrolysis reaction of non-stoichiometric solar wustite Fe(1-y)O at 575 degrees C. (C) 2006 Elsevier Ltd. All rights reserved.
+AB This study deals with solar  production from the two-step iron oxide thermochemical cycle (Fe3O4/FeO). This cycle involves the endothermic solar-driven reduction of the Metal oxide (magnetite) at high temperature followed by the exothermic steam hydrolysis of the reduced Metal oxide (wustite) for  generation. Thermodynamic and experimental investigations have been performed to quantify the performances of this cycle for  production. High-temperature decomposition reaction (Metal oxide reduction) was performed in a solar reactor set at the focus of a laboratory-scale solar furnace. The operating conditions for obtaining the complete reduction of magnetite into wustite were defined. An inert atmosphere is required to prevent re-oxidation of Fe(Il) oxide during quenching. The water-splitting reaction with iron(II) oxide producing  was studied to determine the chemical kinetics, and the influence of temperature and particles size on the chemical conversion. A conversion of 83% was obtained for the hydrolysis reaction of non-stoichiometric solar wustite Fe(1-y)O at 575 degrees C. (C) 2006 Elsevier Ltd. All rights reserved.
 C1 CNRS, PROMES, UPR 8521, Proc Mat & Solar  Lab, F-66120 Odeillo Font Romeu, France.
    CEA, F-30207 Bagnols Sur Ceze, France.
 RP Charvin, P (corresponding author), CNRS, PROMES, UPR 8521, Proc Mat & Solar  Lab, 7 Rue Four Solaire, F-66120 Odeillo Font Romeu, France.
@@ -5616,7 +5585,7 @@ TI In situ formation and hydrolysis of Zn nanoparticles for H-2 production
 SO INTERNATIONAL JOURNAL OF  
 LA English
 DT Article
-DE ; solar; zinc; hydrolysis; nanoparticles; thermochemical cycle
+DE 
 ID SOLAR THERMAL-DECOMPOSITION; -PRODUCTION; ZINC-OXIDE; CHEMICAL
    REACTOR; VAPOR; DISSOCIATION; CONDENSATION; CRYSTALLIZATION; OXIDATION;
    METALS
